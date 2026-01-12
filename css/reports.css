@@ -1,0 +1,34 @@
+#report_list li ul li
+{
+	margin-left: 35px;float: left;
+  width: 20%;
+}
+#report_list li ul li a
+{
+	color: #000;
+  text-decoration: initial;
+  font-size: 14px;
+}
+
+#report_date_range_simple
+{
+	margin-bottom: 3px;
+}
+.report 
+{
+	font-size: 12px;
+}
+#report_summary
+{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#report_summary .summary_row
+{
+}
+
+#chart_wrapper
+{
+	text-align: center;
+}
